@@ -1,3 +1,9 @@
+# Chapter 12 Testing
+
+This repository contains the Testing tutorial mentioned in **Chapter 12** of the book:
+
+[**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
+
 # Distributed Image Processing with FastAPI, YOLO, RabbitMQ, Redis, and SQLite
 
 This repository implements a distributed image processing pipeline using Docker Compose. It integrates multiple services to handle image uploads, object detection, and result management.
